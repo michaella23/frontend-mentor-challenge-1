@@ -115,6 +115,7 @@ strong {
    color: var(--bright-blue);
    font-size: 0.8rem;
    font-weight: 900;
+    margin-left: 4em;
 }
 
 a:hover,
